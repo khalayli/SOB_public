@@ -42,8 +42,11 @@ Tournaments: Baloot is not only played casually but also in organized tournament
 <img width="220" alt="Screenshot 2024-04-04 at 11 37 28 PM" src="https://github.com/khalayli/SOB_public/assets/154463029/23101567-f12c-47e8-98ba-4cf91b1d19f2">
 
 <img width="220" alt="Screenshot 2024-04-04 at 11 37 37 PM" src="https://github.com/khalayli/SOB_public/assets/154463029/4e3c1c1c-14de-49e8-9859-7d004450df22">
+
 <img width="220" alt="Screenshot 2024-04-04 at 11 37 46 PM" src="https://github.com/khalayli/SOB_public/assets/154463029/0b897188-b7ab-4344-8047-1eac5aea6e9c">
+
 <img width="423" alt="Screenshot 2024-04-04 at 11 42 14 PM" src="https://github.com/khalayli/SOB_public/assets/154463029/5cb9ba6e-f2c0-4f63-91dd-768e0add1e31">
+
 <img width="423" alt="Screenshot 2024-04-04 at 11 42 27 PM" src="https://github.com/khalayli/SOB_public/assets/154463029/cf8c1e18-4cc4-48af-84c2-97ca136ffa84">
 
 
