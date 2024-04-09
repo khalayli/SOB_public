@@ -11,24 +11,24 @@ Sultans of Baloot is a project that stemmed out of a "what if" idea. It is also 
 
 It's a trick-taking game that is similar in structure to other card games like Bridge, Spades, and Hearts, but it has its own unique set of rules and is traditionally played with a standard deck of 52 cards. Baloot combines skill, strategy, and social interaction, making it a favorite pastime for many.
 
-Game Overview:
+**Game Overview:**
 Number of Players: Baloot is typically played by four players, divided into two teams of two. Partners sit opposite each other at a table.
 
-Objective: The primary goal of the game is to score points by winning tricks. A trick is a collection of four cards, one contributed by each player in turn. Points are awarded based on certain cards won in tricks and for fulfilling specific declarations or bids.
+**Objective:** The primary goal of the game is to score points by winning tricks. A trick is a collection of four cards, one contributed by each player in turn. Points are awarded based on certain cards won in tricks and for fulfilling specific declarations or bids.
 
-The Deck: The game uses a standard 52-card deck. The cards in each suit rank from high to low: Ace (A), King (K), Queen (Q), Jack (J), 10, 9, 8, 7. In some variations, the J might be considered high.
+**The Deck:** The game uses a standard 52-card deck. The cards in each suit rank from high to low: Ace (A), King (K), Queen (Q), Jack (J), 10, 9, 8, 7. In some variations, the J might be considered high.
 
-Gameplay: The game starts with a bidding phase where players bid to declare the trump suit or choose to play without a trump. Following the bidding, the card play begins, where players take turns playing cards with the aim of winning tricks for their team.
+**Gameplay:** The game starts with a bidding phase where players bid to declare the trump suit or choose to play without a trump. Following the bidding, the card play begins, where players take turns playing cards with the aim of winning tricks for their team.
 
-Scoring: Scoring in Baloot depends on the specific variant being played. Points can be earned for winning tricks containing certain cards (e.g., the 10s and the Aces) and for fulfilling the contract declared during the bidding phase.
+**Scoring:** Scoring in Baloot depends on the specific variant being played. Points can be earned for winning tricks containing certain cards (e.g., the 10s and the Aces) and for fulfilling the contract declared during the bidding phase.
 Hokom and Sun: There are two main variants of Baloot - Hokom and Sun. In Hokom, the trump suit is declared, while in Sun, there is no trump.
 
-Unique Aspects:
+**Unique Aspects:**
 Cultural Significance: Baloot holds significant cultural importance in the Gulf region. It's more than just a game; it's a social activity that fosters camaraderie and friendship.
 
-Strategic Depth: The game requires a good balance of strategy, memory, and teamwork. Players must remember which cards have been played and strategize with their partners without direct communication.
+**Strategic Depth:** The game requires a good balance of strategy, memory, and teamwork. Players must remember which cards have been played and strategize with their partners without direct communication.
 
-Tournaments: Baloot is not only played casually but also in organized tournaments, reflecting its popularity and competitive nature.
+**Tournaments:** Baloot is not only played casually but also in organized tournaments, reflecting its popularity and competitive nature.
 
 ### SOB Features
 
@@ -36,6 +36,8 @@ Tournaments: Baloot is not only played casually but also in organized tournament
 - An enjoyable free to play experience: The focus of the application will not be monetization and rather the fairness of algorithms and the gamer experience.
 
 ### Screenshots and Visuals
+
+** The state of the application design is now emphasizing testing. The modules will all be redesigned and cleaned up.
 
 <img width="220" alt="Screenshot 2024-04-04 at 11 37 20 PM" src="https://github.com/khalayli/SOB_public/assets/154463029/839ea867-13de-4121-8904-8b699156d6c1">
 
@@ -73,7 +75,7 @@ KeychainSwift
 
 I faced many challenges with SOB, sometimes, I spent days scratching my head over just 1 bug. I had a memory leak at some point which just caused the application to never close the game once its out of view. It turned out NavigationLink doesn't destroy the view when you go back and I solved it by changing the View type.
 
-Some of the things I learned more about:
+**Some of the things I learned more about:**
 
 -Firebase.
 
