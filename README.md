@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Sultans of Baloot is a project that stemmed out of a "what if" idea. It is also my way of diving deep into Swift, with a meaningful project since I don't enjoy working on small projects which can prove I can do something but will not be of use. Baloot is a popular Saudi card game similar to French Belote with different rules which I enjoy playing it often with my fellow friends. It definitely exists and would not be the first to touch the App Store, however, as a player who spent a lot of time and has tried many different Baloot apps, I was never satisfied with any. They were just missing many features and the core of the game makes the user experience horrible. 
+Sultans of Baloot is a project that stemmed out of a "what if" idea. It is also my way of diving deep into Swift, with a meaningful project since I don't enjoy working on small projects which are not of use. Baloot is a popular Saudi card game similar to French Belote with different rules which I enjoy playing it often with my fellow friends. It definitely exists and would not be the first to touch the App Store, however, as a player who spent a lot of time and has tried many different Baloot apps, I was never satisfied with any. They were just missing many features and the core algorithm of the game makes the user experience horrible. 
 
 
 ## About the Game
